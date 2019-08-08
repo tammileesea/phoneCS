@@ -14,5 +14,26 @@ namespace Phone
         
         // abstract method. This method will be implemented by the subclasses
         public abstract void DisplayInfo();
+
+        public string versionNumber{
+            get{
+                return _versionNumber;
+            }
+        }
+        public int batteryPercentage{
+            get{
+                return _batteryPercentage;
+            }
+        }
+        public string carrier{
+            get{
+                return _carrier;
+            }
+        }
+        public string ringTone{
+            get{
+                return _ringTone;
+            }
+        }
     }
 }

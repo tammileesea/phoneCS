@@ -2,3 +2,10 @@
 /Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/obj/Debug/netcoreapp2.2/Phone.csproj.CoreCompileInputs.cache
 /Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/obj/Debug/netcoreapp2.2/Phone.AssemblyInfoInputs.cache
 /Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/obj/Debug/netcoreapp2.2/Phone.AssemblyInfo.cs
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/bin/Debug/netcoreapp2.2/Phone.deps.json
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/bin/Debug/netcoreapp2.2/Phone.runtimeconfig.json
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/bin/Debug/netcoreapp2.2/Phone.runtimeconfig.dev.json
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/bin/Debug/netcoreapp2.2/Phone.dll
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/bin/Debug/netcoreapp2.2/Phone.pdb
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/obj/Debug/netcoreapp2.2/Phone.dll
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/obj/Debug/netcoreapp2.2/Phone.pdb

@@ -5,15 +5,15 @@ namespace Phone
         : base(versionNumber, batteryPercentage, carrier, ringTone) {}
         public string Ring() 
         {
-            return "Phone is ringing";
+            return ringTone;
         }
         public string Unlock() 
         {
-            return "Phone is unlocked";
+            return $"Nokia {versionNumber} is unlocked";
         }
-        public override void DisplayInfo() 
+        public override void DisplayInfo()
         {
-            System.Console.WriteLine($"Version: {versionNumber}; Battery: {batterPercentage}; Carrier: {carrier}; Ring Tone: {ringTone}");
+            System.Console.WriteLine($"Version: {versionNumber}; Battery: {batteryPercentage}; Carrier: {carrier}; Ring Tone: {ringTone}");
         }
     }
 }
