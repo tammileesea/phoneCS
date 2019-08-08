@@ -1,0 +1,4 @@
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/obj/Debug/netcoreapp2.2/Phone.csprojAssemblyReference.cache
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/obj/Debug/netcoreapp2.2/Phone.csproj.CoreCompileInputs.cache
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/obj/Debug/netcoreapp2.2/Phone.AssemblyInfoInputs.cache
+/Users/tammilee/Desktop/codingDojo/csharp/OOP/Phone/obj/Debug/netcoreapp2.2/Phone.AssemblyInfo.cs
